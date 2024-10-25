@@ -11,11 +11,11 @@ En el proyecto contara con un sensor, un servo y leds. Al momento de que una per
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://m.media-amazon.com/images/I/612eALAbpgL.,}jpg; width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103"; />|1|75.00|
-|Servo|<img width="100" src="<img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103"; />|1|75.00|"; />|1|131.00|
-|Leds|<img width="100" src="https://www.taloselectronics.com/cdn/shop/products/paquete_de_100_leds_difusos_5mm_varios_colores_mexico_jalisco_guadalajara_700x700.jpg?v=1593816653"; />|1|2.00|
-|Resistencia|<img width="100" src="https://http2.mlstatic.com/D_NQ_NP_903666-MLM75952546015_042024-O.webp"; />|1|2.00|
+|ESP32|<![image](https://github.com/user-attachments/assets/cdab1098-6653-44a9-8f88-9e41f140a1e0)>|1|120.00|
+|HC-SR04|<![image](https://github.com/user-attachments/assets/275a9414-97b3-4137-9155-c2f109cd974a)>|1|75.00|
+|Servo|<![image](https://github.com/user-attachments/assets/a9a4d77f-de18-4d61-9a08-c65ebd989481)>|1|131.00|
+|Leds|<![image](https://github.com/user-attachments/assets/47ae42bb-5016-465d-a451-56eed9f02368)>|1|2.00|
+|Resistencia|<![image](https://github.com/user-attachments/assets/3ee7c98b-b8b2-467b-a57e-ae5077e5d69f)>|1|2.00|
 |...||||
 
 ## Software a utilizar
@@ -25,10 +25,27 @@ En el proyecto contara con un sensor, un servo y leds. Al momento de que una per
 |...||
 
 ## Dibujo del arbol
-https://drive.google.com/drive/folders/1e0smjp_Huw9X0OR5lpDxrSXhaQNG7hz-
+![image](https://github.com/user-attachments/assets/35bdbd90-264e-4e51-8c8c-696bb46ceca1)
+
+## Capturas de natacad
+C:
+![image](https://github.com/user-attachments/assets/d2ce4c67-3201-4cb3-a20b-fda3fb36be3f)
+
+![image](https://github.com/user-attachments/assets/0457774c-bb0b-408d-8321-78db448b7ff3)
+
+![image](https://github.com/user-attachments/assets/c09a047b-f77c-4079-a479-b26e78427a04)
+
+![image](https://github.com/user-attachments/assets/d6223c74-dbcd-4a26-a5d1-a69d2292811f)
+
+![image](https://github.com/user-attachments/assets/cda24f54-777c-4263-924e-c38a96827602)
+
+![image](https://github.com/user-attachments/assets/1d02d740-8311-4057-9a79-7968b083f738)
+
+Phyton:
+![image](https://github.com/user-attachments/assets/be8df05b-d0ff-4360-88b8-0ef4ff3cf426)
+
+![image](https://github.com/user-attachments/assets/da53e326-145c-458b-8891-a419f069280e)
+
 
 ## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/410246863639528449
-
-## Capturas de examenes 
-https://docs.google.com/document/d/1O9GviHZ6KacDcheoxZfp-tBB1lPW7p2cuushVsADlaw/edit?tab=t.0
+https://wokwi.com/projects/412640826920199169
